@@ -1,9 +1,10 @@
 {
   "name": "fish-follow",
   "description": "",
-  "homepage": "https://stackblitz.com/edit/react-emlhue",
+  "homepage": "https://github.com/aralroca/fishFollow-posenet-tfjs",
   "dependencies": {
     "@tensorflow-models/posenet": "0.0.1",
+    "@tensorflow/tfjs": "^0.10.3",
     "react": "16.1.1",
     "react-dom": "16.1.1",
     "react-scripts": "1.0.10"
@@ -14,6 +15,11 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "devDependencies": {
+    "gh-pages": "^1.1.0"
   }
 }
