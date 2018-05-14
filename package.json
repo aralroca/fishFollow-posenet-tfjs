@@ -1,7 +1,7 @@
 {
   "name": "fish-follow",
   "description": "",
-  "homepage": "https://github.com/aralroca/fishFollow-posenet-tfjs",
+  "homepage": "https://aralroca.github.io/fishFollow-posenet-tfjs/",
   "dependencies": {
     "@tensorflow-models/posenet": "0.0.1",
     "@tensorflow/tfjs": "^0.10.3",
