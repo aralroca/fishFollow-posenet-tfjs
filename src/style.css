@@ -6,7 +6,7 @@
 
 body {
   background-color: rgb(96, 125, 139);
-  background-image: '/aquarium.jpg';
+  background-image: url('https://aralroca.github.io/fishFollow-posenet-tfjs/aquarium.jpg');
 }
 
 .video{

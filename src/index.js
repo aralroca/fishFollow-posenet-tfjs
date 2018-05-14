@@ -4,7 +4,7 @@ import * as posenet from '@tensorflow-models/posenet';
 
 import './style.css';
 
-const IMAGE = 'https://media.giphy.com/media/37Bukdbb26MXC/giphy.gif';
+const IMAGE = 'https://aralroca.github.io/fishFollow-posenet-tfjs/fish.gif';
 const MILLISECONDS = 500;
 const imageScaleFactor = 0.5;
 const outputStride = 16;
