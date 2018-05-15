@@ -1,6 +1,6 @@
 # Fish follow
 
-Move the fish moving your nose! Only with a webcam!
+Control the fish 🐟 by moving your nose 👃!  Only with a webcam 🎥!
 
 TensorflowJS with Posenet model.
 
