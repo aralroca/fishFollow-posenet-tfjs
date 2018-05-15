@@ -7,11 +7,12 @@
 body {
   background-color: rgb(96, 125, 139);
   background-image: url('https://aralroca.github.io/fishFollow-posenet-tfjs/aquarium.jpg');
+  overflow: hidden;
 }
 
 .video{
   transform: scaleX(-1);
-  visibility: hidden
+  opacity: 0.4;
 }
 
 .mirror {

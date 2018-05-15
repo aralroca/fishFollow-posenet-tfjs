@@ -9,7 +9,7 @@ const MILLISECONDS = 500;
 const imageScaleFactor = 0.5;
 const outputStride = 16;
 const flipHorizontal = true;
-const maxVideoSize = 513;
+const maxVideoSize = 300;
 const weight = 0.5;
 const initialPosition = 40;
 
