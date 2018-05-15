@@ -11,4 +11,7 @@ TensorflowJS with Posenet model.
 
 ## DEMO
 
+![demo](https://aralroca.github.io/fishFollow-posenet-tfjs/demo.gif)
+
+
 * [https://aralroca.github.io/fishFollow-posenet-tfjs/](https://aralroca.github.io/fishFollow-posenet-tfjs/)
