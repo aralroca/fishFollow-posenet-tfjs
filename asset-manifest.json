@@ -1,6 +1,13 @@
 {
-  "main.css": "static/css/main.047d9c61.css",
-  "main.css.map": "static/css/main.047d9c61.css.map",
-  "main.js": "static/js/main.8537bb10.js",
-  "main.js.map": "static/js/main.8537bb10.js.map"
+  "main.css": "/fishFollow-posenet-tfjs/static/css/main.d0af1e3a.chunk.css",
+  "main.js": "/fishFollow-posenet-tfjs/static/js/main.36714bb5.chunk.js",
+  "main.js.map": "/fishFollow-posenet-tfjs/static/js/main.36714bb5.chunk.js.map",
+  "static/js/1.5cd84bb1.chunk.js": "/fishFollow-posenet-tfjs/static/js/1.5cd84bb1.chunk.js",
+  "static/js/1.5cd84bb1.chunk.js.map": "/fishFollow-posenet-tfjs/static/js/1.5cd84bb1.chunk.js.map",
+  "runtime~main.js": "/fishFollow-posenet-tfjs/static/js/runtime~main.d08a3d4e.js",
+  "runtime~main.js.map": "/fishFollow-posenet-tfjs/static/js/runtime~main.d08a3d4e.js.map",
+  "static/css/main.d0af1e3a.chunk.css.map": "/fishFollow-posenet-tfjs/static/css/main.d0af1e3a.chunk.css.map",
+  "index.html": "/fishFollow-posenet-tfjs/index.html",
+  "precache-manifest.8e213e5afd96dde77a9bbeb00bf4b32d.js": "/fishFollow-posenet-tfjs/precache-manifest.8e213e5afd96dde77a9bbeb00bf4b32d.js",
+  "service-worker.js": "/fishFollow-posenet-tfjs/service-worker.js"
 }
