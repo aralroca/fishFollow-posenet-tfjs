@@ -6,7 +6,7 @@ TensorflowJS with Posenet model.
 
 ## Getting start
 
-* `yarn install`
+* `npm install`
 * `npm start`
 
 ## DEMO

@@ -4,7 +4,7 @@
   "homepage": "https://aralroca.github.io/fishFollow-posenet-tfjs/",
   "dependencies": {
     "@tensorflow-models/posenet": "0.2.3",
-    "@tensorflow/tfjs": "0.10.3",
+    "@tensorflow/tfjs": "0.14.2",
     "react": "16.7.0",
     "react-dom": "16.7.0",
     "react-scripts": "2.1.3"
